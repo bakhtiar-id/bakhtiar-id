@@ -3,31 +3,32 @@
 I'm a game developer, I've been coding and making games since I was 13 years old and started to dive into blockchain technologies in mid-2021 where I find that I'm very passionate and interested in that sphere and eager to know and learn more.
 
 ### My milestone and target on game development
-- 🎎 Created [Wayang Quest][wayang-quest]!, a game made for MFUN Game Development Contest
-- ⚓ Created [The Nine Year War][nine-year-war], A simple 2D game version of Battleship board game made in 72 hours
-- 💸 Created [Pasutri: Money, Stress & Love][pasutri]!, A game made for Global Game Jam 2019
-- 🚗 Created [Road Hazard][road-hazard]!, The first commercial app developed by our team [(Bersow Games)][bersow-games]
-- ➗ Created [Mathventure][mathventure]!, A game made for Multimedia Application Development final project
-- 🚁 Created [Drone Shot][droneshot]!, Our second commercial app developed by our team [(Bersow Games)][bersow-games]
-- 🚸 Created [Roadventure][roadventure]!, Game about traffic sign education for children made for GEMASTIK XIV (2021) competition
+- [✅] 🎎 Created [Wayang Quest][wayang-quest], a game made for MFUN Game Development Contest
+- [✅] ⚓ Created [The Nine Year War][nine-year-war], A simple 2D game version of Battleship board game made in 72 hours
+- [✅] 💸 Created [Pasutri: Money, Stress & Love][pasutri], A game made for Global Game Jam 2019
+- [✅] 🚗 Created [Road Hazard][road-hazard], The first commercial app developed by [Bersow Games][bersow-games]
+- [✅] ➗ Created [Mathventure][mathventure], A game made for Multimedia Application Development final project
+- [✅] 🚁 Created [Drone Shot][droneshot], Our second commercial app developed by [Bersow Games][bersow-games]
+- [✅] 🚸 Created [Roadventure][roadventure], Game about traffic sign education for children made for GEMASTIK XIV (2021) competition
 - [ ] 🤺 Created Dungeon Master
 
 ### My milestone and target on blockchain
-- 🎓 Learnt the fundamentals of blockchain
-- 🌐 Learnt Web3
-- 📝 Learnt Smart Contract
-- 🔗 Created a simple blockchain project
-- 🎮 Created a working blockchain game powered by NFT on Matic network for practical work subject for my University called NFTSmith
+- [✅] 🎓 Learnt the fundamentals of blockchain
+- [✅] 🌐 Learnt Web3
+- [✅] 📝 Learnt Smart Contract
+- [✅] 🔗 Created a simple blockchain project
+- [✅] 🎮 Created a working blockchain game powered by NFT on Matic network for practical work subject for my University called NFTSmith
 - [ ] 🤖 Created a working front running trading bot that incorporates memory pools & private nodes
-
-### Connect with me:
+---
+### Find me:
 [<img align="left" alt="Bakhtiar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Bakhtiar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
+<img align="left" alt="Bakhtiar's Top Language" src="https://github-readme-stats.codestackr.vercel.app/api?username=bakhtiar-id&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar-id)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
 
 [bersow-game]: https://www.bersowgames.com/
 [wayang-quest]: https://drive.google.com/drive/folders/1yBUN-pi9_KX-A1ChHxozGxHTa6GqVI_k
