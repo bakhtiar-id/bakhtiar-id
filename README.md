@@ -19,16 +19,14 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] 🔗 Created a simple blockchain project
 - [✅] 🎮 Created a working blockchain game powered by NFT on Matic network for practical work subject for my University called NFTSmith
 - [ ] 🤖 Created a working front running trading bot that incorporates memory pools & private nodes
+
 ---
 ### Find me:
 [<img align="left" alt="Bakhtiar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Bakhtiar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 ---
-<img align="left" alt="Bakhtiar's Top Language" src="https://github-readme-stats.codestackr.vercel.app/api?username=bakhtiar-id&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar-id)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar-id&langs_count=10)](https://github.com/bakhtiar-id)
 
 [bersow-game]: https://www.bersowgames.com/
 [wayang-quest]: https://drive.google.com/drive/folders/1yBUN-pi9_KX-A1ChHxozGxHTa6GqVI_k
