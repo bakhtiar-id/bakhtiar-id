@@ -2,6 +2,10 @@
 ---
 I'm a game developer, I've been coding and making games since I was 13 years old and started to dive into blockchain technologies in mid-2021 where I find that I'm very passionate and interested in that sphere and eager to know and learn more.
 
+### Milestone ###
+✅ - Done
+🔃 - On Going
+
 ### My milestone and target on game development
 - [✅] 🎎 Created [Wayang Quest][wayang-quest], a game made for MFUN Game Development Contest
 - [✅] ⚓ Created [The Nine Year War][nine-year-war], A simple 2D game version of Battleship board game made in 72 hours
@@ -10,7 +14,8 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] ➗ Created [Mathventure][mathventure], A game made for Multimedia Application Development final project
 - [✅] 🚁 Created [Drone Shot][droneshot], Our second commercial app developed by [Bersow Games][bersow-games]
 - [✅] 🚸 Created [Roadventure][roadventure], Game about traffic sign education for children made for GEMASTIK XIV (2021) competition
-- [ ] 🤺 Created Dungeon Master
+- [🔃] 🤺 Created Kang Pisman
+- [🔃] 🪓 Created Survival Game
 
 ### My milestone and target on blockchain
 - [✅] 🎓 Learnt the fundamentals of blockchain
@@ -18,7 +23,7 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] 📝 Learnt Smart Contract
 - [✅] 🔗 Created a simple blockchain project
 - [✅] 🎮 Created a working blockchain game powered by NFT on Matic network for practical work subject for my University called NFTSmith
-- [ ] 🤖 Created a working front running trading bot that incorporates memory pools & private nodes
+- [✅] 🤖 Created a working front running trading bot that incorporates memory pools & private nodes
 
 ---
 ### Find me:
