@@ -10,10 +10,11 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] 🎎 Created [Wayang Quest][wayang-quest], a game made for MFUN Game Development Contest
 - [✅] ⚓ Created [The Nine Year War][nine-year-war], A simple 2D game version of Battleship board game made in 72 hours
 - [✅] 💸 Created [Pasutri: Money, Stress & Love][pasutri], A game made for Global Game Jam 2019
-- [✅] 🚗 Created [Road Hazard][road-hazard], The first commercial app developed by [Bersow Games][bersow-games]
+- [✅] 🚗 Created [Road Hazard][road-hazard], The first commercial app developed by Bersow Games
 - [✅] ➗ Created [Mathventure][mathventure], A game made for Multimedia Application Development final project
-- [✅] 🚁 Created [Drone Shot][droneshot], Our second commercial app developed by [Bersow Games][bersow-games]
+- [✅] 🚁 Created [Drone Shot][droneshot], Our second commercial app developed by Bersow Games
 - [✅] 🚸 Created [Roadventure][roadventure], Game about traffic sign education for children made for GEMASTIK XIV (2021) competition
+- [✅] 🔗 Created [NFTSmith][nftsmith], A blockchain game for practical work subject which economy is powered using Non-Fungible Token in the Matic network
 - [🔃] 🤺 Created Kang Pisman
 - [🔃] 🪓 Created Survival Game
 
@@ -33,7 +34,7 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar-id&langs_count=10)](https://github.com/bakhtiar-id)
 
-[bersow-game]: https://www.bersowgames.com/
+[nftsmith]: https://drive.google.com/drive/folders/1S50K5nRmo1aMsHqbaPFVhrea2siRBFJq?usp=sharing
 [wayang-quest]: https://drive.google.com/drive/folders/1yBUN-pi9_KX-A1ChHxozGxHTa6GqVI_k
 [nine-year-war]: https://drive.google.com/drive/folders/1MorUrKeVnzK5ySeQmGM4mAXlIYvxPqQO
 [pasutri]: https://globalgamejam.org/2019/games/pasutri-money-stress-love
