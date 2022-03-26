@@ -14,6 +14,8 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] ➗ Created [Mathventure][mathventure], A game made for Multimedia Application Development final project
 - [✅] 🚁 Created [Drone Shot][droneshot], Our second commercial app developed by Bersow Games
 - [✅] 🚸 Created [Roadventure][roadventure], Game about traffic sign education for children made for GEMASTIK XIV (2021) competition
+- [✅] 🏹 Created [Mini Dungeon Adventure][mini-dungeon-adventure], Prototype game for Smart Game Development subject to showcase AI and Environment
+- [✅] 🥞 Created [Food Clicker][food-clicker], A game made for Pemrograman Game practicum final project
 - [✅] 🔗 Created [NFTSmith][nftsmith], A blockchain game for practical work subject which economy is powered using Non-Fungible Token in the Matic network
 - [🔃] 🤺 Created Kang Pisman
 - [🔃] 🪓 Created Survival Game
@@ -42,5 +44,7 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 [mathventure]: https://drive.google.com/file/d/1l_W_JQP6Yum6euyuMm4dgOrM5xL6K3hl
 [droneshot]: https://play.google.com/store/apps/details?id=com.bersowgames.droneshot
 [roadventure]: https://drive.google.com/file/d/1KOANH-0C1M-RMpjV95nkVzUPbvYVR_zv/view
+[mini-dungeon-adventure]: https://drive.google.com/drive/folders/1r8a40Yh1aaTtc8KeUQ-NKdJ75d9bwRTX?usp=sharing
+[food-clicker]: https://drive.google.com/drive/folders/1gVCt19bA20JOEjAkEJlJ_EvKUG1lPgEN?usp=sharing
 [linkedin]: https://www.linkedin.com/in/bakhtiar-id/
 [instagram]: https://www.instagram.com/bakh.tiar/
