@@ -30,8 +30,8 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 
 ---
 ### Find me:
-[<img align="left" alt="Bakhtiar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Bakhtiar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Linkedin: [LinkedIn][linkedin]
+instagram: [Instagram][instagram]
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar-id&langs_count=10)](https://github.com/bakhtiar-id)
