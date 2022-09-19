@@ -15,7 +15,7 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] 🚁 Created [Drone Shot][droneshot], our second commercial app developed by Bersow Games
 - [✅] 🚸 Created [Roadventure][roadventure], game about traffic sign education for children made for GEMASTIK XIV (2021) competition
 - [✅] 🏹 Created [Mini Dungeon Adventure][mini-dungeon-adventure], a prototype game for Smart Game Development subject to showcase AI and Environment
-- [✅] 🥞 Created [Food Clicker][food-clicker], a game made for Pemrograman Game practicum final project
+- [✅] 🥞 Created [Food Clicker][food-clicker], a game made for Game Programming practicum final project
 - [✅] 🔗 Created [NFTSmith][nftsmith], a blockchain game for practical work subject which economy is powered using Non-Fungible Token in the Matic network
 - [✅] 🤺 Created [Kang Pisman][kang-pisman], a game made for the PISMAN program by the Bandung city government about sorting waste
 - [🔃] 🪓 Created Unbounded Island
