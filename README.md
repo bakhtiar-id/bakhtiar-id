@@ -37,6 +37,7 @@ instagram: [Instagram][instagram]
 ---
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bakhtiar-id&bg_color=ffffff&color=000000&line=4c4f9e&point=ff1acd&area=true&hide_border=true)](https://github.com/bakhtiar-id)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar-id&layout=compact)](https://github.com/bakhtiar-id)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bakhtiar)](https://wakatime.com/@bakhtiar)
 
 [nftsmith]: https://drive.google.com/drive/folders/1S50K5nRmo1aMsHqbaPFVhrea2siRBFJq?usp=sharing
 [wayang-quest]: https://drive.google.com/drive/folders/1yBUN-pi9_KX-A1ChHxozGxHTa6GqVI_k
