@@ -35,8 +35,7 @@ Linkedin: [LinkedIn][linkedin]<br>
 instagram: [Instagram][instagram]
 
 ---
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bakhtiar-id&bg_color=ffffff&color=000000&line=4c4f9e&point=ff1acd&area=true&hide_border=true)](https://github.com/bakhtiar-id)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiar-id&layout=compact)](https://github.com/bakhtiar-id)
+Languages<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bakhtiar)](https://wakatime.com/@bakhtiar)
 <br>[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b.svg)](https://wakatime.com/@d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b)
 
