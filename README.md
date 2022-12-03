@@ -35,8 +35,9 @@ Linkedin: [LinkedIn][linkedin]<br>
 instagram: [Instagram][instagram]
 
 ---
-Languages<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bakhtiar)](https://wakatime.com/@bakhtiar)
+Wakatime Stat<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br>[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b.svg)](https://wakatime.com/@d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b)
 
 [nftsmith]: https://drive.google.com/drive/folders/1S50K5nRmo1aMsHqbaPFVhrea2siRBFJq?usp=sharing
