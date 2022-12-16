@@ -36,8 +36,8 @@ instagram: [Instagram][instagram]
 
 ---
 Wakatime Stat<br>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<image src="https://wakatime.com/share/@bakhtiar/670d4ca0-c124-4893-930c-96d2ffc7f778.svg" height=360/>
+<image src="https://wakatime.com/share/@bakhtiar/8630cba8-6c0a-46f9-82ce-080712c1b8b5.svg" height=360/>
 <br>[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b.svg)](https://wakatime.com/@d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b)
 
 [nftsmith]: https://drive.google.com/drive/folders/1S50K5nRmo1aMsHqbaPFVhrea2siRBFJq?usp=sharing
