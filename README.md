@@ -35,10 +35,11 @@ Linkedin: [LinkedIn][linkedin]<br>
 instagram: [Instagram][instagram]
 
 ---
-Wakatime Stat<br>
+**Wakatime Stat<br>**
 <image src="https://wakatime.com/share/@bakhtiar/670d4ca0-c124-4893-930c-96d2ffc7f778.svg" height=360/>
 <image src="https://wakatime.com/share/@bakhtiar/8630cba8-6c0a-46f9-82ce-080712c1b8b5.svg" height=360/>
-<image src="https://wakatime.com/share/@bakhtiar/a1606c7b-6d18-460a-b4a7-947da56543fa.svg" height=450/>
+**<br>Yearly Code Activity<br>**
+<image src="https://wakatime.com/share/@bakhtiar/d3dac794-b7c3-4bd4-8c8f-1e352e29b199.svg" height=500/>
 
 [nftsmith]: https://drive.google.com/drive/folders/1S50K5nRmo1aMsHqbaPFVhrea2siRBFJq?usp=sharing
 [wayang-quest]: https://drive.google.com/drive/folders/1yBUN-pi9_KX-A1ChHxozGxHTa6GqVI_k
