@@ -18,8 +18,8 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] 🥞 Created [Food Clicker][food-clicker], a game made for Game Programming practicum final project
 - [✅] 🔗 Created [NFTSmith][nftsmith], a blockchain game for practical work subject which economy is powered using Non-Fungible Token in the Matic network
 - [✅] 🤺 Created [Kang Pisman][kang-pisman], a game made for the PISMAN program by the Bandung city government about sorting waste
+- [✅] 🔗 Created Lost Chain, a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network 
 - [🔃] 🪓 Created Unbounded Island
-- [🔃] 🔗 Created Lost Chain, a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network 
 
 ### My milestone and target on blockchain
 - [✅] 🎓 Learnt the fundamentals of blockchain
@@ -28,7 +28,7 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] 🔗 Created a simple blockchain project
 - [✅] 🎮 Created [NFTSmith][nftsmith] a blockchain game for practical work subject which economy is powered using Non-Fungible Token in the Matic network
 - [✅] 🤖 Created a [front running trading bot][front-running-tb] that incorporates memory pools & private nodes
-- [🔃] 🔗 Created Lost Chain, a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network 
+- [✅] 🔗 Created Lost Chain, a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network 
 ---
 ### Find me:
 Linkedin: [LinkedIn][linkedin]<br>
