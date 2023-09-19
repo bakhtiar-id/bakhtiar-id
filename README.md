@@ -2,6 +2,9 @@
 ---
 I'm a game developer, I've been coding and making games since I was 13 years old and started to dive into blockchain technologies in mid-2021 where I find that I'm very passionate and interested in that sphere and eager to know and learn more.
 
+### Code Activities ###
+<image src="https://wakatime.com/share/@bakhtiar/43504fde-f8f4-4178-934a-bc1028105e0a.svg"/>
+
 ### Milestone ###
 ✅ - Done
 🔃 - On Going
@@ -39,8 +42,6 @@ instagram: [Instagram][instagram]
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b.svg)](https://wakatime.com/@d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b)<br>
 <image src="https://wakatime.com/share/@bakhtiar/670d4ca0-c124-4893-930c-96d2ffc7f778.svg" height=360/>
 <image src="https://wakatime.com/share/@bakhtiar/8630cba8-6c0a-46f9-82ce-080712c1b8b5.svg" height=360/>
-**<br>Yearly Code Activity<br>**
-<image src="https://wakatime.com/share/@bakhtiar/d3dac794-b7c3-4bd4-8c8f-1e352e29b199.svg" height=500/>
 
 [nftsmith]: https://drive.google.com/drive/folders/1S50K5nRmo1aMsHqbaPFVhrea2siRBFJq?usp=sharing
 [wayang-quest]: https://drive.google.com/drive/folders/1yBUN-pi9_KX-A1ChHxozGxHTa6GqVI_k
