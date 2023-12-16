@@ -21,7 +21,7 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] 🥞 Created [Food Clicker][food-clicker], a game made for Game Programming practicum final project
 - [✅] 🔗 Created [NFTSmith][nftsmith], a blockchain game for practical work subject which economy is powered using Non-Fungible Token in the Matic network
 - [✅] 🤺 Created [Kang Pisman][kang-pisman], a game made for the PISMAN program by the Bandung city government about sorting waste
-- [✅] 🔗 Created Lost Chain, a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network 
+- [✅] 🔗 Created [Lost Chain][lostchain], a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network 
 - [🔃] 🪓 Created Unbounded Island
 
 ### My milestone and target on blockchain
@@ -31,7 +31,7 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] 🔗 Created a simple blockchain project
 - [✅] 🎮 Created [NFTSmith][nftsmith] a blockchain game for practical work subject which economy is powered using Non-Fungible Token in the Matic network
 - [✅] 🤖 Created a [front running trading bot][front-running-tb] that incorporates memory pools & private nodes
-- [✅] 🔗 Created Lost Chain, a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network 
+- [✅] 🔗 Created [Lost Chain][lostchain], a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network 
 ---
 ### Find me:
 Linkedin: [LinkedIn][linkedin]<br>
@@ -56,6 +56,7 @@ instagram: [Instagram][instagram]
 [front-running-tb]: https://bakhtiar-id.github.io/dhs-website/
 [kang-pisman]: https://drive.google.com/file/d/1fWMt1qyTAu27Cld4hUt156i5YwzqBk_0/view
 [nftsmith]: https://drive.google.com/drive/folders/1S50K5nRmo1aMsHqbaPFVhrea2siRBFJq
+[lostchain]: https://drive.google.com/drive/folders/1jp_45PVGrzH7EopXCIOFoPKt4mPy1Cij?usp=sharing
 
 [linkedin]: https://www.linkedin.com/in/bakhtiar-id/
 [instagram]: https://www.instagram.com/bakh.tiar/
