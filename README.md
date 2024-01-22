@@ -57,6 +57,15 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/ce41a2d0-0b4d-4a5c-81ce-92b496b109cd.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/ce41a2d0-0b4d-4a5c-81ce-92b496b109cd)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018ba812-397c-486c-8ddd-cecbc144a297.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018ba812-397c-486c-8ddd-cecbc144a297)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018bf076-7f5d-4bc7-a9f2-38e407e280c0.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018bf076-7f5d-4bc7-a9f2-38e407e280c0)
+
+#### Freelance
+> **VR/AR**
+<br>Time Spent Coding (Multiple Repositories):<br>
+[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d3202-abf1-48c2-a1bd-120143b2ccdd.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d3202-abf1-48c2-a1bd-120143b2ccdd)
+
+> **BE/FE**
+<br>Time Spent Coding (Multiple Repositories):<br>
+[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/b3e0d9ff-8b76-4745-bd0c-759f46bd7b86.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/b3e0d9ff-8b76-4745-bd0c-759f46bd7b86)
 ---
 ### Find me:
 Linkedin: [LinkedIn][linkedin]<br>
