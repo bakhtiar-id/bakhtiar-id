@@ -3,7 +3,7 @@
 I'm a game developer, I've been coding and making games since I was 13 years old and started to dive into blockchain technologies in mid-2021 where I find that I'm very passionate and interested in that sphere and eager to know and learn more.
 
 ### Code Activities ###
-<image src="https://wakatime.com/share/@bakhtiar/43504fde-f8f4-4178-934a-bc1028105e0a.svg"/>
+[<image src="https://wakatime.com/share/@bakhtiar/43504fde-f8f4-4178-934a-bc1028105e0a.svg"/>](https://wakatime.com/insights/animated/days.gif)
 
 ### Milestone ###
 ✅ - Done
