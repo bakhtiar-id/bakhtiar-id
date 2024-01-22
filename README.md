@@ -21,8 +21,8 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] 🥞 Created [Food Clicker][food-clicker], a game made for Game Programming practicum final project
 - [✅] 🔗 Created [NFTSmith][nftsmith], a blockchain game for practical work subject which economy is powered using Non-Fungible Token in the Matic network
 - [✅] 🤺 Created [Kang Pisman][kang-pisman], a game made for the PISMAN program by the Bandung city government about sorting waste
-- [✅] 🔗 Created [Lost Chain][lostchain], a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network 
-- [🔃] 🪓 Created Unbounded Island
+- [✅] 🔗 Created [Lost Chain][lostchain], a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/8b0397fb-57e7-4fa4-9750-a31739fc0a0d.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/8b0397fb-57e7-4fa4-9750-a31739fc0a0d) [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/42d5a2c9-9ca5-4def-8675-dd890efbbbe1.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/42d5a2c9-9ca5-4def-8675-dd890efbbbe1)
+- [🔃] 🪓 Created Unbounded Island [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/8962802e-9706-443a-90d7-c88dc56dde0e.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/8962802e-9706-443a-90d7-c88dc56dde0e)
 
 ### My milestone and target on blockchain
 - [✅] 🎓 Learnt the fundamentals of blockchain
@@ -43,6 +43,7 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/e1c39fb8-26f3-43ad-a8a7-b7740c9f0bfe.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/e1c39fb8-26f3-43ad-a8a7-b7740c9f0bfe)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/a163a737-b2cd-43ca-b295-52a8d596b9d1.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/a163a737-b2cd-43ca-b295-52a8d596b9d1)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/70299dda-d668-446e-a744-2577c2b50647.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/70299dda-d668-446e-a744-2577c2b50647)
+[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/581caefb-c831-4b25-84eb-11c7480e6faa.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/581caefb-c831-4b25-84eb-11c7480e6faa)
 
 #### Virtu
 > **Aug 2023 · Now**
