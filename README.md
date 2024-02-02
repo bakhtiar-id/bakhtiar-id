@@ -59,6 +59,8 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018bf076-7f5d-4bc7-a9f2-38e407e280c0.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018bf076-7f5d-4bc7-a9f2-38e407e280c0)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d53b3-0482-45af-b9a8-dd376784b7b6.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d53b3-0482-45af-b9a8-dd376784b7b6)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d53e5-ca10-403b-b8c5-f6d1fa56da08.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d53e5-ca10-403b-b8c5-f6d1fa56da08)
+[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d5d75-7f31-4ba3-adb1-9fe41b425dbe.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d5d75-7f31-4ba3-adb1-9fe41b425dbe)
+[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d5d78-c6e6-40ac-b1c2-7d7257f524cf.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d5d78-c6e6-40ac-b1c2-7d7257f524cf)
 
 #### Freelance
 > **VR/AR**
