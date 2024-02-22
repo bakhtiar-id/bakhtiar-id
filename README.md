@@ -71,7 +71,7 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 <br>Time Spent Coding (Multiple Repositories):<br>
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/b3e0d9ff-8b76-4745-bd0c-759f46bd7b86.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/b3e0d9ff-8b76-4745-bd0c-759f46bd7b86)
 ---
-### Find me at:
+### Find me:
 Linkedin: [LinkedIn][linkedin]<br>
 instagram: [Instagram][instagram]
 
