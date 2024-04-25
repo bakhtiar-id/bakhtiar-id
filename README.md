@@ -36,7 +36,7 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 - [✅] [Lost Chain][lostchain], a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/8b0397fb-57e7-4fa4-9750-a31739fc0a0d.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/8b0397fb-57e7-4fa4-9750-a31739fc0a0d) [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/42d5a2c9-9ca5-4def-8675-dd890efbbbe1.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/42d5a2c9-9ca5-4def-8675-dd890efbbbe1)
 
 ---
-### Work Experiences:
+### Work Experience:
 #### metaNesia (Telkom Indonesia)
 > **Apr 2022 - Aug 2023 · 1 yr 5 mos**
 <br>Time Spent Coding (Multiple Repositories):<br>
