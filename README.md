@@ -49,7 +49,8 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/70299dda-d668-446e-a744-2577c2b50647.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/70299dda-d668-446e-a744-2577c2b50647)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/581caefb-c831-4b25-84eb-11c7480e6faa.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/581caefb-c831-4b25-84eb-11c7480e6faa)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/7df9244e-a979-4145-8652-9506ee69642b.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/7df9244e-a979-4145-8652-9506ee69642b)
-> 
+[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018ee0f9-0364-489a-a440-edbdfdcdfb59.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018ee0f9-0364-489a-a440-edbdfdcdfb59)
+
 #### Virtu
 > **Aug 2023 · Now**
 <br>Time Spent Coding (Multiple Repositories):<br>
@@ -61,8 +62,8 @@ I'm a game developer, I've been coding and making games since I was 13 years old
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018bf076-7f5d-4bc7-a9f2-38e407e280c0.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018bf076-7f5d-4bc7-a9f2-38e407e280c0)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d53b3-0482-45af-b9a8-dd376784b7b6.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d53b3-0482-45af-b9a8-dd376784b7b6)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d53e5-ca10-403b-b8c5-f6d1fa56da08.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d53e5-ca10-403b-b8c5-f6d1fa56da08)
-[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d5d78-c6e6-40ac-b1c2-7d7257f524cf.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d5d78-c6e6-40ac-b1c2-7d7257f524cf)
-[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d5d75-7f31-4ba3-adb1-9fe41b425dbe.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d5d75-7f31-4ba3-adb1-9fe41b425dbe)
+[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018dc50b-8c45-4840-b27e-d45c812c2673.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018dc50b-8c45-4840-b27e-d45c812c2673)
+[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018dc4c9-10b0-433e-b6af-5d13251deb59.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018dc4c9-10b0-433e-b6af-5d13251deb59)
 
 #### Freelance
 > **VR/AR**
