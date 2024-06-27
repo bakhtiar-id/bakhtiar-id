@@ -2,7 +2,13 @@
 ---
 I'm a game developer, I've been coding and making games since I was 13 years old and started to dive into blockchain technologies in mid-2021 where I find that I'm very passionate and interested in that sphere and eager to know and learn more.
 
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,solidity,aws,dotnet,go,cpp,cs,visualstudio,vscode,github,git,gitlab,firebase,js,html,nodejs,gcp,docker)](https://www.linkedin.com/in/bakhtiar-id/)
+### My Skills ###
+<b>Languages</b> <br>
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,ts,solidity,cpp,go)](https://www.linkedin.com/in/bakhtiar-id/)
+<br><b>Tools/Frameworks</b><br>
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,visualstudio,vscode,git,nodejs,svelte)](https://www.linkedin.com/in/bakhtiar-id/)
+<br><b>Services</b><br>
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,firebase,aws,gcp,docker)](https://www.linkedin.com/in/bakhtiar-id/)
 
 ### Code Activities ###
 [<image src="https://wakatime.com/share/@bakhtiar/43504fde-f8f4-4178-934a-bc1028105e0a.svg"/>](https://wakatime.com/insights/animated/days.gif)
