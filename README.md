@@ -1,6 +1,6 @@
 # Hi there, I'm **Bakhtiar** 👋
 ---
-I'm a game developer, I've been coding and making games since I was 13 years old and started to dive into blockchain technologies in mid-2021 where I find that I'm very passionate and interested in that sphere and eager to know and learn more.
+I'm a game developer who has been passionate about coding and creating immersive experiences since 2013. My journey expanded into blockchain technologies in mid-2021, and by mid-2023, I was diving into the exciting worlds of AR and VR. Today, I dedicate myself to crafting games, AR, and VR applications while leveraging my expertise as a backend developer specializing in Golang.
 
 ### My Skills ###
 <b>Languages</b> <br>
