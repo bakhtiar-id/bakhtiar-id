@@ -79,8 +79,8 @@ I'm a game developer who has been passionate about coding and creating immersive
 > **BE/FE**
 <br>Time Spent Coding (Multiple Repositories):<br>
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/b3e0d9ff-8b76-4745-bd0c-759f46bd7b86.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/b3e0d9ff-8b76-4745-bd0c-759f46bd7b86)
-[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/234c6f88-1dd1-4001-952e-0a532b58992d.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/234c6f88-1dd1-4001-952e-0a532b58992d)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/14042a99-fcd7-4e57-96b9-f41ddcc20bd6.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/14042a99-fcd7-4e57-96b9-f41ddcc20bd6)
+[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/234c6f88-1dd1-4001-952e-0a532b58992d.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/234c6f88-1dd1-4001-952e-0a532b58992d)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/5281a5c2-9b36-4894-94be-a6153b0311d2.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/5281a5c2-9b36-4894-94be-a6153b0311d2)
 
 ---
