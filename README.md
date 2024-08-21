@@ -71,7 +71,7 @@ I'm a game developer who has been passionate about coding and creating immersive
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018ee0f9-0364-489a-a440-edbdfdcdfb59.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018ee0f9-0364-489a-a440-edbdfdcdfb59)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/0d57218e-d42b-4fc8-abec-feda6034ab56.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/0d57218e-d42b-4fc8-abec-feda6034ab56)
 
-#### Freelance/Personal Project
+#### Freelance/Personal Projects
 > **VR/AR/Games**
 <br>Time Spent Coding (Multiple Repositories):<br>
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d3202-abf1-48c2-a1bd-120143b2ccdd.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018d3202-abf1-48c2-a1bd-120143b2ccdd)
