@@ -43,7 +43,7 @@ I'm a game developer who has been passionate about coding and creating immersive
 - [✅] [Lost Chain][lostchain], a blockchain game that has a play to earn model, player driven economy & gasless transaction for thesis project powered using Non-Fungible Token in the Matic network
 
 ---
-### Work Experience:
+### Work Experiences:
 #### metaNesia (Telkom Indonesia)
 > **Apr 2022 - Aug 2023 · 1 yr 5 mos**
 <br>Time Spent Coding (Multiple Repositories):<br>
