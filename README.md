@@ -70,6 +70,7 @@ I'm a game developer who has been passionate about coding and creating immersive
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018e03a8-4791-413b-9fed-3893fa915b36.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018e03a8-4791-413b-9fed-3893fa915b36)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018ee0f9-0364-489a-a440-edbdfdcdfb59.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/018ee0f9-0364-489a-a440-edbdfdcdfb59)
 [![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/0d57218e-d42b-4fc8-abec-feda6034ab56.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/0d57218e-d42b-4fc8-abec-feda6034ab56)
+[![wakatime](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/a93dbd43-3786-444c-b88e-f5ba459ebb24.svg)](https://wakatime.com/badge/user/d497bfdd-d7ff-40d5-a5c8-ad88bd0d6d5b/project/a93dbd43-3786-444c-b88e-f5ba459ebb24)
 
 #### Freelance/Personal Projects
 > **VR/AR/Games**
