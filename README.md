@@ -13,7 +13,7 @@ I'm a game developer who has been passionate about coding and creating immersive
 ### Code Activities ###
 [<image src="https://wakatime.com/share/@bakhtiar/43504fde-f8f4-4178-934a-bc1028105e0a.svg"/>](https://wakatime.com/insights/animated/days.gif)
 
-### Milestone ###
+### Milestones ###
 ✅ - Done
 🔃 - On Going
 
