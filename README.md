@@ -1,5 +1,4 @@
 # Hi there, I'm **Bakhtiar** 👋
-### My Skills ###
 <b>Languages</b> <br>
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,ts,solidity,cpp,go)](https://www.linkedin.com/in/bakhtiar-id/)
 <br><b>Tools/Frameworks</b><br>
