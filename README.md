@@ -1,7 +1,4 @@
 # Hi there, I'm **Bakhtiar** 👋
----
-I'm a game developer who has been passionate about coding and creating immersive experiences since 2013. My journey expanded into blockchain technologies in mid-2021, and by mid-2023, I was diving into the exciting worlds of AR and VR. Today, I dedicate myself to crafting games, AR, and VR applications while leveraging my expertise as a backend developer specializing in Golang.
-
 ### My Skills ###
 <b>Languages</b> <br>
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,ts,solidity,cpp,go)](https://www.linkedin.com/in/bakhtiar-id/)
