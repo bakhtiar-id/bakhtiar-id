@@ -1,7 +1,7 @@
 # Hi there, I'm **Bakhtiar** 👋
 <b>Languages</b> <br>
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,ts,solidity,cpp,go)](https://www.linkedin.com/in/bakhtiar-id/)
-<br><b>Tools/Frameworks</b><br>
+<br><b>Tools and Frameworks</b><br>
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,visualstudio,vscode,git,nodejs,svelte)](https://www.linkedin.com/in/bakhtiar-id/)
 <br><b>Services</b><br>
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,firebase,aws,gcp,docker)](https://www.linkedin.com/in/bakhtiar-id/)
